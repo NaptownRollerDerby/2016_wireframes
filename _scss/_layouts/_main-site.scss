@@ -24,13 +24,13 @@ body {
 }
 
 .col {
-    border: 1px solid $grey;
-    margin: 7px 0;
-    text-align: center;
-    line-height: 60px;
-    font-size: 20px;
-    font-weight: 300;
-    background-color: $light;
-    color: $grey;
-    padding: 0;
+  border: 5px solid $light;
+  margin: 0;
+  text-align: center;
+  line-height: 60px;
+  font-size: 20px;
+  font-weight: 300;
+  background-color: $grey;
+  color: $light;
+  padding: 0;
 }

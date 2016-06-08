@@ -6,7 +6,7 @@ permalink: /team/
 
 Team content
 
-<nav>
+<nav class="pink">
   <div class="nav-wrapper">
     <ul id="nav-mobile" class="left hide-on-med-and-down">
       <li><a href="/team/skaters/">Skaters</a></li>

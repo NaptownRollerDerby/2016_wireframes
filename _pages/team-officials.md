@@ -6,7 +6,7 @@ permalink: /team/officials/
 
 _(These are drop down links from the parent header above)_
 
-<nav>
+<nav class="pink">
   <div class="nav-wrapper">
     <ul id="nav-mobile" class="left hide-on-med-and-down">
       <li><a href="/team/skaters/">Skaters</a></li>
@@ -21,28 +21,16 @@ _(These are drop down links from the parent header above)_
 ##### Officials content
 
 <div class="row">
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
-    <div class="col s12 m4 l2"><p>s12 m6 l3</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
+    <div class="col s12 m4 l2"><p>official</p></div>
   </div>

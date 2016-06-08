@@ -6,7 +6,7 @@ permalink: /about/mission/
 
 _(These are drop down links from the parent header above)_
 
-<nav>
+<nav class="pink">
   <div class="nav-wrapper">
     <ul id="nav-mobile" class="left hide-on-med-and-down">
       <li class="active"><a href="/about/mission/">Mission</a></li>
