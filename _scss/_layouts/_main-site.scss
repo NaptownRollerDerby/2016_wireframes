@@ -23,8 +23,14 @@ body {
   color: $main-selection-color-text;
 }
 
-.content {
-  max-width: 1200px;
-  background: $light;
-  margin: 50px auto;
+.col {
+    border: 1px solid $grey;
+    margin: 7px 0;
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    background-color: $light;
+    color: $grey;
+    padding: 0;
 }
