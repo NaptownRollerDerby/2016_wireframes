@@ -4,3 +4,4 @@ exclude: ["node_modules", "gulpfile.js", "secrets.json", "package.json", "js/mai
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
 keep_files: ["js/main.min.js", "css/main.css"]
+include: ["_pages"]
