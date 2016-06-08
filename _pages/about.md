@@ -19,8 +19,10 @@ About content
   </div>
 </nav>
 
+<!--
 <div class="row">
   <div class="col s12">This div is 12-columns wide</div>
   <div class="col s6">This div is 6-columns wide</div>
   <div class="col s6">This div is 6-columns wide</div>
 </div>
+-->
