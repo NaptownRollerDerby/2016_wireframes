@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-permalink: /about/
+title: Mission
+permalink: /about/mission/
 ---
 
 _(These are drop down links from the parent header above)_
@@ -9,27 +9,19 @@ _(These are drop down links from the parent header above)_
 <nav>
   <div class="nav-wrapper">
     <ul id="nav-mobile" class="left hide-on-med-and-down">
-      <li><a href="/about/mission/">Mission</a></li>
+      <li class="active"><a href="/about/mission/">Mission</a></li>
       <li><a href="/about/history/">History</a></li>
       <li><a href="/about/FAQ/">FAQ</a></li>
       <li><a href="http://shop.naptownrollergirls.com/">Merchandise</a></li>
-      <li><a href="/about/press/">Press Kit</a></li>
+      <li><a href="/about/presskit/">Press Kit</a></li>
       <li><a href="/about/sponsors/">Sponsors</a></li>
     </ul>
   </div>
 </nav>
 
-<!--
-<div class="row">
-  <div class="col s12">This div is 12-columns wide</div>
-  <div class="col s6">This div is 6-columns wide</div>
-  <div class="col s6">This div is 6-columns wide</div>
-</div>
--->
-
 <div class="divider" style="margin: 50px 0 35px 0;"></div>
 
-##### About content
+##### Mission content
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In enim libero, fringilla malesuada odio ut, fringilla placerat tellus. Phasellus neque odio, auctor in mauris nec, tincidunt suscipit sapien. Nunc eget erat imperdiet, gravida eros a, ultrices arcu. Sed placerat justo id mi egestas, eget vehicula nunc varius. Pellentesque mattis risus non dui elementum, at malesuada nunc ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam mollis massa quis nibh facilisis, at posuere quam vestibulum. Nam quis porta libero. Cras vel quam viverra, consequat urna ac, aliquet metus. Cras pulvinar turpis justo, id facilisis eros feugiat at.
 
