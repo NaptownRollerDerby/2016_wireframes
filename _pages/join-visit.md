@@ -1,10 +1,10 @@
 ---
 layout: post
-title: FAQ
-permalink: /about/FAQ/
+title: Visiting/Transfer Skaters
+permalink: /join/visit/
 ---
 
-##### FAQ content
+##### Visiting/Transfer Skaters
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In enim libero, fringilla malesuada odio ut, fringilla placerat tellus. Phasellus neque odio, auctor in mauris nec, tincidunt suscipit sapien. Nunc eget erat imperdiet, gravida eros a, ultrices arcu. Sed placerat justo id mi egestas, eget vehicula nunc varius. Pellentesque mattis risus non dui elementum, at malesuada nunc ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam mollis massa quis nibh facilisis, at posuere quam vestibulum. Nam quis porta libero. Cras vel quam viverra, consequat urna ac, aliquet metus. Cras pulvinar turpis justo, id facilisis eros feugiat at.
 

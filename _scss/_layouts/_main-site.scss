@@ -23,14 +23,21 @@ body {
   color: $main-selection-color-text;
 }
 
-.col {
-  border: 5px solid $light;
+.navbar {
+  background-color: $light-grey;
+}
+
+.headshot {
   margin: 0;
-  text-align: center;
-  line-height: 60px;
-  font-size: 20px;
-  font-weight: 300;
-  background-color: $grey;
-  color: $light;
   padding: 0;
+
+  .l_box {
+    margin: .25em;
+    text-align: center;
+    line-height: 160px;
+    font-size: 20px;
+    font-weight: 300;
+    color: $light;
+    background-color: $grey;
+  }
 }
