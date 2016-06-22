@@ -25,19 +25,67 @@ body {
 
 .navbar {
   background-color: $light-grey;
+
+  .brand-logo {
+    color: $light;
+    background-color: $dark;
+    line-height: 1;
+    margin: 0;
+    padding: 50px 0;
+    text-align: center;
+    font-size: 160%;
+    font-weight: bold;
+
+    a {
+      color: $light;
+      text-decoration: none;
+    }
+  }
 }
 
-.headshot {
+.container {
+  width: 100%;
+
+  .post-content, .index-content {
+    max-width: 960px;
+    margin: 0 auto;
+    /* background-color: $light-grey; */
+  }
+}
+
+.headshot, .hl {
   margin: 0;
   padding: 0;
 
   .l_box {
-    margin: .25em;
+    margin: 3px;
     text-align: center;
     line-height: 160px;
     font-size: 20px;
     font-weight: 300;
     color: $light;
     background-color: $grey;
+  }
+
+  .smaller {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 12px 10px;
+  }
+
+  .taller {
+    line-height: 320px;
+  }
+
+  .nlh {
+    text-align: left;
+    font-size: 16px;
+    line-height: 1.4;
+    padding: 25px;
+
+    p {
+      margin: 0 0 12px 0;
+      padding: 0;
+    }
   }
 }
